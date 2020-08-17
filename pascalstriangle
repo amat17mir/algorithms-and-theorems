@@ -17,3 +17,4 @@ def binocoef(n, k) :
 n = 10
 printPascal(n) 
 
+
